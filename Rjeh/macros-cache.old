@@ -1,0 +1,113 @@
+MACRO 16777219 "Bloodthirst" INV_Misc_QuestionMark
+#showtooltip Bloodthirst
+/cast Berserker Stance
+/startattack
+/cast Bloodthirst
+END
+MACRO 16777227 "Charge" INV_Misc_QuestionMark
+#showtooltip Charge
+/cast Battle Stance
+/cast Charge
+/cast Berserker Stance
+END
+MACRO 16777218 "Cleave" INV_Misc_QuestionMark
+#showtooltip Cleave
+/cast Berserker Stance
+/startattack
+/cast Cleave
+END
+MACRO 16777229 "Disarm" INV_Misc_QuestionMark
+#showtooltip Disarm
+/cast Defensive Stance
+/cast Disarm
+/cast Berserker Stance
+END
+MACRO 16777223 "Execute" INV_Misc_QuestionMark
+#showtooltip Execute
+/cast Berserker Stance
+/startattack
+/cast Execute
+END
+MACRO 16777217 "Heroic Strike" INV_Misc_QuestionMark
+#showtooltip Heroic Strike
+/cast Berserker Stance
+/startattack
+/cast Heroic Strike
+END
+MACRO 16777225 "Intercept" INV_Misc_QuestionMark
+#showtooltip Intercept
+/cast Berserker Stance
+/cast Intercept
+END
+MACRO 16777228 "Intervene" INV_Misc_QuestionMark
+#showtooltip Intervene
+/cast Defensive Stance
+/use [@mouseover,help,nodead][help,nodead][@player] Intervene
+/cast Berserker Stance
+END
+MACRO 16777224 "Pummel" INV_Misc_QuestionMark
+#showtooltip Pummel
+/cast Berserker Stance
+/cast Pummel
+END
+MACRO 16777222 "Rend" INV_Misc_QuestionMark
+#showtooltip Rend
+/cast Battle Stance
+/startattack
+/cast Rend
+/cast Berserker Stance
+END
+MACRO 16777230 "Retaliation" INV_Misc_QuestionMark
+#showtooltip Retaliation
+/cast Battle Stance
+/cast Retaliation
+/cast Berserker Stance
+END
+MACRO 16777231 "Shattering Throw" INV_Misc_QuestionMark
+#showtooltip Shattering Throw
+/cast Battle Stance
+/cast Shattering Throw
+/cast Berserker Stance
+END
+MACRO 16777232 "Shield Wall" INV_Misc_QuestionMark
+#showtooltip Shield Wall
+/cast Defensive Stance
+/equip Death's Bite
+/equip
+/cast Shield Wall
+/cast Berserker Stance
+END
+MACRO 16777221 "Slam" INV_Misc_QuestionMark
+#showtooltip Slam
+/cast Berserker Stance
+/startattack
+/stopcasting
+/cast Slam
+/stopcasting
+END
+MACRO 16777233 "Spell Reflection" INV_Misc_QuestionMark
+#showtooltip Spell Reflection
+/cast Defensive Stance
+/equip Death's Bite
+/equip
+/cast Spell Reflection
+/cast Berserker Stance
+END
+MACRO 16777234 "Taunt" INV_Misc_QuestionMark
+#showtooltip Taunt
+/cast Defensive Stance
+/cast Taunt
+/cast Berserker Stance
+END
+MACRO 16777226 "Victory Rush" INV_Misc_QuestionMark
+#showtooltip Victory Rush
+/cast Berserker Stance
+/startattack
+/cast Victory Rush
+END
+MACRO 16777220 "Whirlwind" INV_Misc_QuestionMark
+#showtooltip Whirlwind
+/cast Berserker Stance
+/startattack
+/cast Whirlwind
+END
